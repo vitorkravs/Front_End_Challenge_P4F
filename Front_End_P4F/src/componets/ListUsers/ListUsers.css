@@ -1,0 +1,23 @@
+#listusers {
+    float: left;
+    width: 30%;
+    border: 1px solid red;
+
+}
+
+#l-users {
+    border:  2px solid;
+    width: 200px;
+}
+
+.l-users--item {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+}
+
+.l-users--item:hover {
+    background-color: #ccc;
+    cursor: pointer;
+}
